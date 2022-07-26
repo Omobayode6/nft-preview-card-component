@@ -26,7 +26,7 @@ hr{
 .card{
   border-radius: 15px;
   background-color: hsl(216, 50%, 16%);
-  margin: 4rem auto 0;
+  margin: 6rem auto 0;
   padding: 20px;
   max-width: 250px;
 }
